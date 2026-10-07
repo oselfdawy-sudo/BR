@@ -109,7 +109,7 @@ section .container {
  
 }
 section .container .card {
-  width: calc((100%-45px) / 4);
+  width: calc((100% - 45px) / 4);
   position: relative;
 }
 section .container .card img {
